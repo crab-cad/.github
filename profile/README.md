@@ -11,4 +11,4 @@ Our projects:
 All pulls not ready for **final** review should have `DRAFT:` perpended to the name.
 
 #### MSRV
-The highest minimum rust version a project can have is rust stable - 3
+The highest minimum rust version a project can have is `rust stable - 3`.
